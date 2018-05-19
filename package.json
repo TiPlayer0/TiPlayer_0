@@ -1,5 +1,5 @@
 {
-  "name": "discord.js",
+  "name": "Panda_Bot",
   "version": "12.0.0-dev",
   "description": "A powerful library for interacting with the Discord API",
   "main": "./src/index",
@@ -16,19 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/discordjs/discord.js.git"
-  },
-  "keywords": [
-    "discord",
-    "api",
-    "bot",
-    "client",
-    "node",
-    "discordapp"
-  ],
-  "author": "Amish Shah <amishshah.2k@gmail.com>",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/discordjs/discord.js/issues"
   },
   "homepage": "https://github.com/discordjs/discord.js#readme",
   "runkitExampleFilename": "./docs/examples/ping.js",
